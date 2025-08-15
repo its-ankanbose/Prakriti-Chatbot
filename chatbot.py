@@ -135,7 +135,7 @@ window = tk.Tk()
 window.title("Prakriti Assessment Chatbot")
 
 # Load the background image
-bg_image = Image.open("C:/Users/Anurag Dey/OneDrive/Desktop/SIH/meditation-7308899_960_720.jpg")  # Replace "background.jpg" with your image file path
+bg_image = Image.open("C:/Users/Hp/Desktop/Prakriti Chatbot/meditation.jpg")  # Replace "background.jpg" with your image file path
 bg_photo = ImageTk.PhotoImage(bg_image)
 
 # Create a label for the background image
